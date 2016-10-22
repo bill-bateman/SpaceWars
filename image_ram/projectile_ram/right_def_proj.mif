@@ -1,0 +1,10 @@
+Depth = 45;
+Width = 9;
+Address_radix=dec;
+Data_radix=bin;
+Content
+BEGIN
+	[0..44] : 010010011;
+	30 : 000000000;
+	0 : 000000000;
+End;
